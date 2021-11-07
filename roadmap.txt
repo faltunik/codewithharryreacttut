@@ -1,0 +1,16 @@
+Roadmap
+
+- Creating Hello World App
+- Fetching data from API
+  - Text
+  - Image
+  - Audio
+  - Video
+  - Map
+  - Graph
+
+- Updating and manipulating data
+- Deleting data
+- Adding Data
+
+- Creating Games
